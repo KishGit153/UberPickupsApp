@@ -6,8 +6,9 @@
 
 > This app is an UberPickup app seeing where and how often deliveries are made in specific areas. 
 > I  have used streamlit to perform this as a complete beginner.
+> Click on the link below to access the app :)
 
-[Google](https://kishgit153-uberpickupsapp-uber-pickups-aw5sj5.streamlit.app/ "Google Search")
+[UberPickUps App](https://kishgit153-uberpickupsapp-uber-pickups-aw5sj5.streamlit.app/ "Google Search")
 
 ---
 ---
@@ -21,8 +22,7 @@
 ***
 ***
 
-# Code
-===
+## Code
 --- 
 
 ```
